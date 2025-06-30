@@ -1,27 +1,41 @@
-# Desafio: Gerenciamento de Máquinas Virtuais no Microsoft Azure
+# Repositório de Estudos - Microsoft Azure AZ-104
 
-## 📘 Entendendo o Desafio
+Neste repositório, você encontrará **resumos**, **anotações** e **dicas práticas** sobre o uso do **Microsoft Azure**, com foco no conteúdo abordado no exame de certificação **AZ-104: Microsoft Azure Administrator**.
 
-Este repositório foi criado como parte do desafio proposto pela DIO, com o objetivo de consolidar o conhecimento adquirido sobre o gerenciamento de máquinas virtuais no Microsoft Azure. Aqui você encontrará resumos, anotações e dicas práticas que servirão como material de apoio para estudos e futuras implementações.
+## 🎯 Objetivo
 
-## 🎯 Objetivos de Aprendizagem
+Este material tem como objetivo servir como **apoio para estudos** e **referência para futuras implementações** em ambientes reais de nuvem. Ele foi desenvolvido com base em experiências práticas e laboratórios realizados durante o curso.
 
-Ao concluir este desafio, você será capaz de:
+## 📘 Conteúdo
 
-- ✅ Aplicar os conceitos aprendidos em um ambiente prático;
-- ✅ Documentar processos técnicos de forma clara e estruturada;
-- ✅ Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica.
+- Conceitos fundamentais do Azure
+- Gerenciamento de máquinas virtuais (VMs)
+- Monitoramento com Azure Monitor e Log Analytics
+- Configuração de alertas e grupos de ação
+- Diagnóstico com Network Watcher
+- Gerenciamento de identidades com Azure AD
+- Políticas e controle de acesso (RBAC)
+- Backup e recuperação
+- Automação e scripts com PowerShell e CLI
+- Boas práticas e dicas para a prova AZ-104
 
-## 📂 Estrutura do Repositório
+## 🧪 Laboratórios Práticos
 
-- `README.md`: Este arquivo com a descrição do desafio e instruções.
-- `resumos/`: Pasta contendo resumos e anotações sobre o uso da Azure.
-- `dicas/`: Dicas práticas e comandos úteis.
-- `images/`: (Opcional) Capturas de tela relevantes para o desafio.
+Inclui exemplos e exercícios práticos como:
 
-## 🚀 Instruções de Uso
+- Configuração de alertas para eventos críticos (ex: exclusão de VM)
+- Criação de workspaces do Log Analytics
+- Consultas com KQL (Kusto Query Language)
+- Diagnóstico de conectividade com IP Flow Verify
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/fcastelani80/fcastelani_az104.git
-   ```
+## 📌 Observações
+
+Este repositório está em constante atualização conforme novas práticas e recursos do Azure são explorados.
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir com sugestões, correções ou novos conteúdos!
+
+---
+
+**Bons estudos e sucesso na sua jornada de certificação!**
